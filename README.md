@@ -26,8 +26,8 @@ Backend Architecture: ![microservice-arch](https://github.com/user-attachments/a
 
 ### Developers
  - [Alpcan Yüksel](https://github.com/AlpcanYuksel)
- - [Ceren Yılmaz](https://github.com/ceren945)
- - [Eylül Aktü](https://github.com/eylulaktuy)
+ - [Ceren Gül Durmuş](https://github.com/ceren945)
+ - [Eylül Aktuy](https://github.com/eylulaktuy)
  - [Saba Ürgüp](https://github.com/SabaUrgup)
 
 ---
@@ -49,8 +49,8 @@ Backend Architecture: ![microservice-arch](https://github.com/user-attachments/a
 
 ### Geliştiriciler
  - [Alpcan Yüksel](https://github.com/AlpcanYuksel)
- - [Ceren Yılmaz](https://github.com/ceren945)
- - [Eylül Aktü](https://github.com/eylulaktuy)
+ - [Ceren  Gül Durmuş](https://github.com/ceren945)
+ - [Eylül Aktuy](https://github.com/eylulaktuy)
  - [Saba Ürgüp](https://github.com/SabaUrgup)
 
 
