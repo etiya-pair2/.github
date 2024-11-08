@@ -1,6 +1,6 @@
 # Etiya Pair2 Organization
 
-Welcome to the official repositories of the **Etiya Pair2** organization. Below you will find details about our main projects.
+Welcome to the repositories of the **Etiya Pair2** organization. Below you will find details about our main projects.
 - [Try English Version](#english-version) 
 - [Türkçe Versiyon](#türkçe-versiyon)
 
